@@ -29023,7 +29023,7 @@ while(true)switch(s){case 0:A.b7b()
 if($.a8==null)A.aqA()
 $.a8.toString
 s=2
-return A.L($.qr().Cg(0,".env"),$async$aEy)
+return A.L($.qr().Cg(0,"dotenv"),$async$aEy)
 case 2:if($.a8==null)A.aqA()
 q=$.a8
 q.toString
